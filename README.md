@@ -21,3 +21,19 @@ The extension runs automatically when you visit play.midgardidle.ro. Translation
 Please note that some parts of the game may still appear in Portuguese or contain translation errors. The game is large and constantly updated, so the translation is an ongoing work in progress - new content is being added and improved regularly.
 
 No data is collected. No accounts required. Works entirely in your browser.
+
+
+--------------------------------------------------------------------------------------------------
+
+
+Manual installation (without Chrome Web Store):
+
+1. Download the ZIP file from the releases page
+2. Unzip the file to any folder on your computer
+3. Open Chrome and go to chrome://extensions
+4. Enable "Developer mode" using the toggle in the top right corner
+5. Click "Load unpacked"
+6. Select the unzipped folder
+7. The extension is now active - open play.midgardidle.ro and enjoy the game in English
+
+For questions or feedback, contact me on Discord: paganov
