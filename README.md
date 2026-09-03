@@ -1,4 +1,4 @@
-# Midgard-Idle---English
+# Midgard-Idle-English-Translation
 Full English translation for Midgard Idle (play.midgardidle.ro)
 
 Midgard Idle - English is a browser extension that fully translates the idle MMORPG Midgard Idle from Portuguese to English.
